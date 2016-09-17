@@ -1,6 +1,0 @@
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
-D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
